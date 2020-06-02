@@ -32,3 +32,17 @@ ol {
   font-size: 20px;
   font-style: italic;
 }
+
+#light {
+  display: none;
+}
+
+#dark {
+  display: block;
+}
+
+.darkmode {
+  background-color: black;
+  color: white;
+}
+
