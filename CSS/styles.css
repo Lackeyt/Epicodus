@@ -46,3 +46,8 @@ ol {
   color: white;
 }
 
+.borderHighlight {
+  border: dotted;
+  border-color: green;
+  background-color: yellow;
+}
